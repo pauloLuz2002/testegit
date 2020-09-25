@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\C#\\UdemyCSharpCompleto\\TesteGit\\TesteGit.csproj": {}
+    "C:\\Projetos\\C#\\TesteGit\\TesteGit.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\C#\\UdemyCSharpCompleto\\TesteGit\\TesteGit.csproj": {
+    "C:\\Projetos\\C#\\TesteGit\\TesteGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\C#\\UdemyCSharpCompleto\\TesteGit\\TesteGit.csproj",
+        "projectUniqueName": "C:\\Projetos\\C#\\TesteGit\\TesteGit.csproj",
         "projectName": "TesteGit",
-        "projectPath": "C:\\Projetos\\C#\\UdemyCSharpCompleto\\TesteGit\\TesteGit.csproj",
+        "projectPath": "C:\\Projetos\\C#\\TesteGit\\TesteGit.csproj",
         "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\C#\\UdemyCSharpCompleto\\TesteGit\\obj\\",
+        "outputPath": "C:\\Projetos\\C#\\TesteGit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
